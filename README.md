@@ -1,7 +1,6 @@
 # Pandas_Practise_Portfolio
 Practical Pandas exercises applied to varied datasets, showcasing skills in EDA (exploratory data analysis), manipulation, and visualization.
-Pandas Data Journey
-Learning Pandas with Python for Data Analysis by Wes McKinney, using datasets like Palmer Penguins and Iris, stored locally in data/.
+
 Setup
 
 Clone: git clone https://github.com/Praruj/Pandas_Practise_Portfolio.git
